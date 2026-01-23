@@ -1,0 +1,1 @@
+ HTML-письмо Blanchard + адаптив
